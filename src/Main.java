@@ -24,5 +24,4 @@ public class Main{
             arr.add(random.nextInt(1000));
         }
     }
-
 }
